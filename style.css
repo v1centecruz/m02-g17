@@ -1,0 +1,112 @@
+body {background-color: greenyellow;} 
+
+.banderas {
+	background-color: white;
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin: 20px;
+}
+.laosA {
+	background-color: darkred;
+	height: 25%;
+} 
+
+.simblaos {
+	height: 80px;
+	position: absolute;
+	width: 80px;
+	margin-left: 200px;
+	margin-top: 3px;
+
+}
+
+.laosB {
+	background-color: darkblue;
+	height: 50%;}
+
+.simblaos {
+	height: 140px;
+	width: 140px;
+	position: absolute;
+	margin-left: 170px;
+	margin-top: 5px;
+}
+
+
+.laosC {
+	background-color: darkred;
+	height: 25%;
+}
+
+.simbmex {
+	height: 110px;
+	width: 110px;
+	position: absolute;
+	margin-left: 30px;
+	margin-top: 90px; 
+}
+
+
+.mexicoA {
+	background-color: darkgreen;
+	width: 33.33%;
+	height: 100%;
+	float: left;
+
+}
+
+
+.mexicoB {
+	background-color: white;
+	width: 33.33%;
+	height: 100%;
+	float: left;
+
+}
+
+.mexicoC {
+	background-color: darkred;
+	width: 33.33%;
+	height: 100%;
+	float: left;
+
+}
+.japonA {
+	background-color: white;
+	height: 25%;
+} 
+
+.simbjapon {
+	height: 170px;
+	width: 170px;
+	position: absolute;
+	margin-left: 165px;
+	margin-top: -10px;
+}
+
+
+.japonB {
+	background-color: white;
+	height: 50%;
+
+}
+.japonC {
+	background-color: white;
+	height: 25%;
+}
+
+
+
+
+Cita video tutorial de apoyo: Lezcano, J. P. (2020, 11 mayo). 
+L24 Hacemos unas banderas con divs para practicar las propiedades CSS [Vídeo]. 
+YouTube. Recuperado 26 de septiembre de 2022, de https://www.youtube.com/watch?v=ekudCTWJGWA&feature=youtu.be
+
+
+
+
+
+
+
+
